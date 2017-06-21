@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Starter_App"
+             x:Class="Starter_App.MainPage">
+
+    <StackLayout Orientation="Vertical" Margin="0,50,0,00">
+        <Entry x:Name="ValueAEntry"
+            FontSize="40">
+        </Entry>
+        <Entry x:Name="ValueBEntry"
+            FontSize="40">
+        </Entry>
+
+        <Button Text="Add"
+                BackgroundColor="Purple"
+                TextColor="White"
+                FontSize="40"
+                Clicked="Add_Clicked" />
+
+        <Button Text="Multiply"
+                BackgroundColor="Teal"
+                TextColor="White"
+                FontSize="40"
+                Clicked="Multiply_Clicked" />
+
+        <Label x:Name="ResultLabel"
+               FontSize="40"/>
+
+    </StackLayout>
+
+</ContentPage>
