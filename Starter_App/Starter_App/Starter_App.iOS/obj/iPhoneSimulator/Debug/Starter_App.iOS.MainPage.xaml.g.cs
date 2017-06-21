@@ -11,8 +11,8 @@
 namespace Starter_App {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("c:\\users\\nobel360\\documents\\visual studio 2017\\Projects\\Starter_App\\Starter_App\\S" +
-        "tarter_App\\MainPage.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Einstein360\\Documents\\GitHub\\Test\\Starter_App\\Starter_App\\Starter_App\\Ma" +
+        "inPage.xaml")]
     public partial class MainPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
