@@ -60,9 +60,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Starter_App\Starter_App.iOS\Starter_App.iOS.csproj">
-      <Project>{958eba0a-374c-4b5c-b1cb-7e241c17a5e0}</Project>
-      <Name>Starter_App.iOS</Name>
+    <ProjectReference Include="..\Starter_App\Starter_App.Android\Starter_App.Android.csproj">
+      <Project>{8a82ab00-faad-4b30-a084-6bd2e63e553a}</Project>
+      <Name>Starter_App.Android</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

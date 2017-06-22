@@ -13,6 +13,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UITest1", "UITest1\UITest1.
 EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		Starter_App\Starter_App\Starter_App.projitems*{8a82ab00-faad-4b30-a084-6bd2e63e553a}*SharedItemsImports = 4
 		Starter_App\Starter_App\Starter_App.projitems*{958eba0a-374c-4b5c-b1cb-7e241c17a5e0}*SharedItemsImports = 4
 		Starter_App\Starter_App\Starter_App.projitems*{f28d181f-c497-4c74-8716-912d5767d7e1}*SharedItemsImports = 13
 	EndGlobalSection
@@ -101,6 +102,7 @@ Global
 		{BB29DED2-BC3C-4852-AC44-82433682F02C}.AppStore|iPhoneSimulator.Build.0 = Release|Any CPU
 		{BB29DED2-BC3C-4852-AC44-82433682F02C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{BB29DED2-BC3C-4852-AC44-82433682F02C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB29DED2-BC3C-4852-AC44-82433682F02C}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
 		{BB29DED2-BC3C-4852-AC44-82433682F02C}.Debug|iPhone.ActiveCfg = Debug|Any CPU
 		{BB29DED2-BC3C-4852-AC44-82433682F02C}.Debug|iPhone.Build.0 = Debug|Any CPU
 		{BB29DED2-BC3C-4852-AC44-82433682F02C}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
