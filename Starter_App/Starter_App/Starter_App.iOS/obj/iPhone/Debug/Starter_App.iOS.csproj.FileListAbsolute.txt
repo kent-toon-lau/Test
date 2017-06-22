@@ -66,6 +66,7 @@ C:\Users\Einstein360\Documents\GitHub\Test\Starter_App\Starter_App\Starter_App.i
 C:\Users\Einstein360\Documents\GitHub\Test\Starter_App\Starter_App\Starter_App.iOS\obj\iPhone\Debug\optimized\Icon-Small@2x.png
 C:\Users\Einstein360\Documents\GitHub\Test\Starter_App\Starter_App\Starter_App.iOS\obj\iPhone\Debug\optimized\Icon-Small@3x.png
 C:\Users\Einstein360\Documents\GitHub\Test\Starter_App\Starter_App\Starter_App.iOS\obj\iPhone\Debug\optimized\
+C:\Users\Einstein360\Documents\GitHub\Test\Starter_App\Starter_App\Starter_App.iOS\obj\iPhone\Debug\Starter_App.iOS.csprojResolveAssemblyReference.cache
 C:\Users\Einstein360\Documents\GitHub\Test\Starter_App\Starter_App\Starter_App.iOS\obj\iPhone\Debug\Starter_App.iOS.MainPage.xaml.g.cs
 C:\Users\Einstein360\Documents\GitHub\Test\Starter_App\Starter_App\Starter_App.iOS\obj\iPhone\Debug\Starter_App.iOS.App.xaml.g.cs
 C:\Users\Einstein360\Documents\GitHub\Test\Starter_App\Starter_App\Starter_App.iOS\obj\iPhone\Debug\Starter_App.iOS.exe

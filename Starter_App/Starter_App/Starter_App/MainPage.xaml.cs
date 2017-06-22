@@ -21,7 +21,7 @@ namespace Starter_App
 
         private void Multiply_Clicked(object sender, EventArgs e)
         {
-            ResultLabel.Text = (Convert.ToInt32(ValueAEntry.Text) * Convert.ToInt32(ValueBEntry.Text)).ToString();
+            ResultLabel.Text = (Convert.ToInt32(ValueAEntry.Text) * Convert.ToInt32(ValueBEntry.Text)).ToString(); 
         }
     }
 }
