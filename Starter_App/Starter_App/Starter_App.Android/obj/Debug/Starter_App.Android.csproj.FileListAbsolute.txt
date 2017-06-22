@@ -36,10 +36,10 @@ C:\Users\Einstein360\Documents\GitHub\Test\Starter_App\Starter_App\Starter_App.A
 C:\Users\Einstein360\Documents\GitHub\Test\Starter_App\Starter_App\Starter_App.Android\obj\Debug\res\values\styles.xml
 C:\Users\Einstein360\Documents\GitHub\Test\Starter_App\Starter_App\Starter_App.Android\obj\Debug\R.cs.flag
 C:\Users\Einstein360\Documents\GitHub\Test\Starter_App\Starter_App\Starter_App.Android\obj\Debug\uploadflags.txt
-C:\Users\Einstein360\Documents\GitHub\Test\Starter_App\Starter_App\Starter_App.Android\obj\Debug\Starter_App.Android.csprojResolveAssemblyReference.cache
 C:\Users\Einstein360\Documents\GitHub\Test\Starter_App\Starter_App\Starter_App.Android\bin\Debug\Starter_App.Android.dll.mdb
 C:\Users\Einstein360\Documents\GitHub\Test\Starter_App\Starter_App\Starter_App.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
 C:\Users\Einstein360\Documents\GitHub\Test\Starter_App\Starter_App\Starter_App.Android\obj\Debug\android\assets\Starter_App.Android.dll.mdb
 C:\Users\Einstein360\Documents\GitHub\Test\Starter_App\Starter_App\Starter_App.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
 C:\Users\Einstein360\Documents\GitHub\Test\Starter_App\Starter_App\Starter_App.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
 C:\Users\Einstein360\Documents\GitHub\Test\Starter_App\Starter_App\Starter_App.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Einstein360\Documents\GitHub\Test\Starter_App\Starter_App\Starter_App.Android\obj\Debug\Starter_App.Android.csprojResolveAssemblyReference.cache
